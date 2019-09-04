@@ -1,5 +1,5 @@
 require 'jekyll'
-require 'sass'
+require 'sassc'
 require 'uglifier'
 require 'digest/md5'
 require 'octopress'
